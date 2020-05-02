@@ -1,4 +1,4 @@
-# carremote
+# Better Remote
 
 ## Description
 Car Remote
@@ -10,6 +10,6 @@ Car Remote
 * [es_extended](https://github.com/ESX-Org/es_extended)
 
 ## Installation
-1) Unzip download to the `resources/carremote` directory.
+1) Unzip download to the `resources/better_remote` directory.
 
-2) Add `start carremote` in your server.cfg.
+2) Add `start better_remote` in your server.cfg.
